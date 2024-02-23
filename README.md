@@ -1,3 +1,5 @@
 # tasks-flask-crud
 
-Esse repositório foi criado durante o curso de Python na Rocketseat
+Esse repositório foi criado para criação de um sistema de Tasks com Flask e API Postman
+
+Nele é possível adicionar uma nova tarefa, ler e excluir uma tarefa
